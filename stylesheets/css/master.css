@@ -1,0 +1,13 @@
+nav {
+  display: grid;
+  max-height: 3em;
+}
+
+#nav-links {
+  justify-content: end;
+}
+
+#nav-image {
+  max-width: 3em;
+  justify-content: left;
+}
